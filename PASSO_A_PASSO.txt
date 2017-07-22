@@ -1,0 +1,3 @@
+git clone https://github.com/PokeAPI/sprites
+ionic start ExemploLayout
+copia a pasta pokemon para src/assets
